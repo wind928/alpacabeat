@@ -1,0 +1,5 @@
+= Alpacabeat Docs
+
+Welcome to the Alpacabeat documentation.
+
+
