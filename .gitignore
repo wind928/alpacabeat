@@ -1,5 +1,7 @@
 /.idea
 /build
+/vendor
+/logs
 
 .DS_Store
 /alpacabeat
